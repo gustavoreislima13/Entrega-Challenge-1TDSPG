@@ -8,8 +8,8 @@ var posts = [
   },
   {
     "imagem": "imagens/risco.png",
-    "titulo": "Previsão de Riscos.",
-    "autor": "Porto Seguro",
+    "titulo": "Previsão de Riscos.",  
+    "autor": "Porto Seguro",  
     "imagem_post": "imagens/risco1.png",
     "texto": "Um sistema de IA que analisa os dados dos clientes e do ambiente para prever riscos específicos e oferecer recomendações personalizadas para minimizá-los. Isso poderia incluir conselhos sobre segurança doméstica, sugestões de estilo de vida mais saudável para reduzir os riscos de saúde, entre outros.",
 
